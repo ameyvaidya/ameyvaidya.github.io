@@ -2,15 +2,11 @@
 # Remove file or replace with your own
 
 Billy Rick:
-  name: Billy Rick
+  name: Amey Vaidya
   picture: /images/bio-photo-2.jpg
-  twitter: "@billyrick"
+  twitter: "@billyamy_vaidyarick"
   links:
     - title: Twitter
-      url: https://twitter.com/billyrick
+      url: https://twitter.com/amy_vaidya
       icon: fab fa-twitter-square
 
-Cornelius Fiddlebone:
-  name: Cornelius Fiddlebone
-  picture: /images/bio-photo.jpg
-  twitter: corneliusfiddlebone
